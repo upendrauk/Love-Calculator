@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    font-weight: 10px;
+    text-shadow:2px solid black;
+    text-align: center;
+    color:darkblue
+}
+.uks{
+    text-align: center;
+    background-color: rgb(234, 140, 223);
+    padding: 20px;
+    border: 1px;
+}
+form{
+    display: inline;
+    margin-top: 10px;
+}
+.uks1{
+    font-size:25px;
+    padding: 3px;
+}
+.uks2{
+    font-size:xx-large
+}
